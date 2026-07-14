@@ -28,3 +28,9 @@
 4. Empezar a leer documentación oficial
 
 Este es el camino que estoy siguiendo.
+
+### Importancia de los eventos en contratos
+
+Los eventos permiten que el frontend sepa cuándo pasa algo en el contrato (ej: un mint, un swap, un cambio de estado).
+
+Son baratos y esenciales para construir dApps reactivas.
