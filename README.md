@@ -50,3 +50,12 @@ Un contador on-chain simple:
 - Desplegarlo en Base
 
 Es un clásico para empezar.
+
+### Conceptos básicos de DeFi en Base
+
+- DEX (Decentralized Exchange): Para hacer swaps
+- Lending: Prestar y pedir prestado
+- Yield Farming: Ganar rendimiento con liquidez
+- Liquidity Pools: Proporcionar liquidez a cambio de fees
+
+Base es un buen lugar para empezar en DeFi por sus bajos fees.
