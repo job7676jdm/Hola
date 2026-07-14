@@ -12,3 +12,10 @@
 - Aprender Solidity básico
 - Probar herramientas de desarrollo
 - Documentar todo el proceso en este repo
+
+### Por qué estoy documentando todo aquí
+
+- Me ayuda a consolidar lo aprendido
+- Crea un historial visible de progreso
+- Puede servir de referencia en el futuro
+- Es buena práctica para cualquier builder
