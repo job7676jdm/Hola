@@ -75,3 +75,9 @@ Es una excelente red para aprender y construir.
 - Verificar direcciones antes de enviar
 - Usar cantidades pequeñas al principio
 - Revisar contratos antes de interactuar
+
+- ### Composability en DeFi
+
+Es la capacidad de que los protocolos se combinen entre sí como "bloques de Lego".
+
+Ejemplo: Usar un préstamo para hacer yield farming en otro protocolo.
