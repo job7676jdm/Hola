@@ -59,3 +59,12 @@ Es un clásico para empezar.
 - Liquidity Pools: Proporcionar liquidez a cambio de fees
 
 Base es un buen lugar para empezar en DeFi por sus bajos fees.
+
+### Por qué Base es ideal para principiantes
+
+- Fees muy bajos → Puedes cometer errores sin perder mucho
+- Buena documentación
+- Comunidad activa
+- Integración con Coinbase Wallet
+
+Es una excelente red para aprender y construir.
