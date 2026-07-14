@@ -68,3 +68,10 @@ Base es un buen lugar para empezar en DeFi por sus bajos fees.
 - Integración con Coinbase Wallet
 
 Es una excelente red para aprender y construir.
+
+### Consejos importantes para no perder fondos
+
+- Nunca des tu seed phrase
+- Verificar direcciones antes de enviar
+- Usar cantidades pequeñas al principio
+- Revisar contratos antes de interactuar
