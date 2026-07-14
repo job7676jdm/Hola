@@ -41,3 +41,12 @@ Características básicas:
 - Similar a JavaScript en sintaxis
 - Es fuertemente tipado
 - Se compila a bytecode para la EVM
+
+- ### Primer proyecto recomendado para practicar
+
+Un contador on-chain simple:
+- Contrato que permite incrementar un número
+- Frontend que muestra el valor y botón para modificar
+- Desplegarlo en Base
+
+Es un clásico para empezar.
