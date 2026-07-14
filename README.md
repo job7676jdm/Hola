@@ -19,3 +19,12 @@
 - Crea un historial visible de progreso
 - Puede servir de referencia en el futuro
 - Es buena práctica para cualquier builder
+
+### Primer paso recomendado para nuevos builders
+
+1. Configurar wallet + red Base
+2. Probar enviar una transacción pequeña
+3. Explorar un DEX (como Aerodrome)
+4. Empezar a leer documentación oficial
+
+Este es el camino que estoy siguiendo.
