@@ -81,3 +81,10 @@ Es una excelente red para aprender y construir.
 Es la capacidad de que los protocolos se combinen entre sí como "bloques de Lego".
 
 Ejemplo: Usar un préstamo para hacer yield farming en otro protocolo.
+
+### Importancia del código abierto en web3
+
+Publicar los contratos y el código del frontend permite:
+- Transparencia
+- Auditorías por la comunidad
+- Que otros puedan aprender y mejorar
