@@ -88,3 +88,25 @@ Publicar los contratos y el código del frontend permite:
 - Transparencia
 - Auditorías por la comunidad
 - Que otros puedan aprender y mejorar
+
+### Contrato Counter simple (primer experimento)
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract Counter {
+    uint256 public count = 0;
+
+    function increment() public {
+        count += 1;
+    }
+
+    function decrement() public {
+        count -= 1;
+    }
+
+    function reset() public {
+        count = 0;
+    }
+}
