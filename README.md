@@ -211,3 +211,13 @@ Colección "Base Builders":
 - Evoluciona según el nivel del holder
 
 Combinación NFT + DeFi.
+
+### Idea de proyecto seguro
+
+"Secure Vault":
+- Depositar fondos
+- Retiro con timelock
+- Protección contra reentrancy
+- Ownership transferible
+
+Proyecto bueno para practicar seguridad.
