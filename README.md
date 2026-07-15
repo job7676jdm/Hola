@@ -203,4 +203,11 @@ Investigar protocolos de yield
 
 omitir
 
+### Idea de proyecto NFT con utilidad
 
+Colección "Base Builders":
+- NFT que da acceso a un canal privado
+- Staking del NFT para ganar tokens
+- Evoluciona según el nivel del holder
+
+Combinación NFT + DeFi.
