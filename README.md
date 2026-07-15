@@ -185,3 +185,22 @@ Token de "Builder Pass":
 - Mint limitado
 
 Un buen caso de uso para practicar ERC20.
+
+### Idea de proyecto DeFi simple
+
+"Base Yield Vault":
+- Usuario deposita USDC
+- El contrato lo deposita en un pool de yield
+- Usuario retira principal + rewards
+
+Proyecto intermedio interesante.
+
+Hazlos en orden y dime “siguiente” cuando termines para darte los 63-66.¿Seguimos? 
+
+Explorar mecanismos de seguridad
+
+Investigar protocolos de yield
+
+omitir
+
+
