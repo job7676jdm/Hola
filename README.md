@@ -176,3 +176,12 @@ Un "Points System":
 - Recompensas según puntos acumulados
 
 Buen proyecto intermedio.
+
+### Idea de token con utilidad
+
+Token de "Builder Pass":
+- Sirve para acceder a contenido exclusivo
+- Se puede stake para ganar rewards
+- Mint limitado
+
+Un buen caso de uso para practicar ERC20.
