@@ -158,3 +158,13 @@ Añadir:
 - Contador por usuario
 
 Esto lo haría más útil como proyecto de práctica.
+
+### Contrato con evento (mejora)
+
+```solidity
+event DataUpdated(string newData, address updater);
+
+function setData(string memory _data) public {
+    data = _data;
+    emit DataUpdated(_data, msg.sender);
+}
