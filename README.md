@@ -168,3 +168,11 @@ function setData(string memory _data) public {
     data = _data;
     emit DataUpdated(_data, msg.sender);
 }
+### Idea de proyecto usando mapping
+
+Un "Points System":
+- Los usuarios ganan puntos al interactuar
+- Ranking on-chain
+- Recompensas según puntos acumulados
+
+Buen proyecto intermedio.
