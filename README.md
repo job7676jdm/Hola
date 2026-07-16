@@ -242,3 +242,10 @@ Contrato donde los tokens se liberan poco a poco con el tiempo (team, advisors, 
 - Owner puede retirar
 - Historial de tips on-chain
 - Frontend bonito con ranking de top tippers
+
+### Idea de proyecto con estados
+
+"Task Manager on-chain":
+- Crear tareas con diferentes estados (Pending, InProgress, Done)
+- Solo owner puede cambiar estados
+- Historial transparente
