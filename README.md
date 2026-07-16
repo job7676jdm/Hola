@@ -221,3 +221,9 @@ Combinación NFT + DeFi.
 - Ownership transferible
 
 Proyecto bueno para practicar seguridad.
+
+### Idea de vesting contract
+
+Contrato donde los tokens se liberan poco a poco con el tiempo (team, advisors, etc.).
+
+Útil para proyectos serios en Base.
