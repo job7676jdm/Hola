@@ -227,3 +227,10 @@ Proyecto bueno para practicar seguridad.
 Contrato donde los tokens se liberan poco a poco con el tiempo (team, advisors, etc.).
 
 Útil para proyectos serios en Base.
+
+### Idea de proyecto con roles
+
+"Community Treasury":
+- Admin puede proponer gastos
+- Holders con rol "Voter" pueden votar
+- Transparencia total on-chain
