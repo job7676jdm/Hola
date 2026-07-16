@@ -234,3 +234,11 @@ Contrato donde los tokens se liberan poco a poco con el tiempo (team, advisors, 
 - Admin puede proponer gastos
 - Holders con rol "Voter" pueden votar
 - Transparencia total on-chain
+
+### Idea de proyecto con payments
+
+"Base Tip Jar mejorado":
+- Cualquiera puede mandar tips
+- Owner puede retirar
+- Historial de tips on-chain
+- Frontend bonito con ranking de top tippers
