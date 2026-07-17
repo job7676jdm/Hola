@@ -351,3 +351,11 @@ Raffle mensual:
 - 5% tax: 2% marketing, 2% liquidity, 1% burn
 - Auto liquidity add
 - Comunidad decide cambios en tax
+
+### Idea de token deflacionario
+
+Token con:
+- Tax on transfer
+- Burn automático
+- Auto liquidity
+- Deflacionario por diseño
