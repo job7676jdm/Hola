@@ -373,3 +373,10 @@ Token de lanzamiento protegido:
 - Max wallet durante las primeras horas
 - Gradual removal of limits
 - Anti-snipe measures
+
+### Idea de token con tax dinámico
+
+Token que reduce tax con el tiempo o según volumen:
+- Al principio más tax para marketing
+- Después baja para holders
+- Ajustable por governance
