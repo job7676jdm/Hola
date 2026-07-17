@@ -286,3 +286,10 @@ Sistema modular:
 - Requiere varias firmas para retirar
 - Transparencia total
 - Útil para DAOs o equipos
+
+### Idea de proyecto con batch
+
+"Batch Sender Tool":
+- Enviar tokens a múltiples direcciones en una sola transacción
+- Útil para airdrops o pagos masivos
+- Ahorro significativo de gas
