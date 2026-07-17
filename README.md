@@ -308,3 +308,10 @@ Raffle mensual:
 - Usuario gana puntos por cada referral
 - Rewards escalonados
 - Ranking de top referrers
+
+### Idea de proyecto con cooldown
+
+"Daily Reward Claim":
+- Recompensa diaria por usuario
+- Cooldown de 24h
+- Acumulación si no reclamas
