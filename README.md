@@ -344,3 +344,10 @@ Raffle mensual:
 - Usuario pone órdenes con precio límite
 - Se ejecutan automáticamente cuando se cumple
 - Todo on-chain
+
+### Idea de token con tax
+
+"Community Token":
+- 5% tax: 2% marketing, 2% liquidity, 1% burn
+- Auto liquidity add
+- Comunidad decide cambios en tax
