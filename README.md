@@ -279,3 +279,10 @@ Sistema modular:
 - Contrato que interactúa con varios DEXs
 - Encuentra la mejor ruta para un swap
 - Usa interfaces para ser compatible con diferentes protocolos
+
+### Idea de proyecto avanzado
+
+"Base Multi-Sig Vault":
+- Requiere varias firmas para retirar
+- Transparencia total
+- Útil para DAOs o equipos
