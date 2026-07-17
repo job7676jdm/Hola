@@ -322,3 +322,11 @@ Raffle mensual:
 - Usuarios reclaman rewards sin pagar gas
 - Un relayer paga el gas
 - Muy buena UX para usuarios nuevos.
+
+### Idea de proyecto con VRF
+
+"Base Lottery":
+- Entradas pagadas
+- Sorteo con VRF real
+- Premios automáticos
+- Transparencia total
