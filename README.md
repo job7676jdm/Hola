@@ -249,3 +249,19 @@ Contrato donde los tokens se liberan poco a poco con el tiempo (team, advisors, 
 - Crear tareas con diferentes estados (Pending, InProgress, Done)
 - Solo owner puede cambiar estados
 - Historial transparente
+
+
+---
+
+### **Commit 90**
+**Mensaje:** `docs: idea de proyecto con structs`
+
+**Texto para añadir:**
+
+```markdown
+### Idea de proyecto con structs
+
+"User Profile on-chain":
+- Guardar nombre, avatar hash, bio
+- Actualizar perfil
+- Consultar perfil de cualquier usuario
