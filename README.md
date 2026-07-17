@@ -359,3 +359,10 @@ Token con:
 - Burn automático
 - Auto liquidity
 - Deflacionario por diseño
+
+### Idea de token con reflection
+
+"Community Reward Token":
+- Holders reciben recompensas automáticas
+- Tax va a reflection + marketing + liquidity
+- Ideal para comunidad fuerte
