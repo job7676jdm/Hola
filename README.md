@@ -315,3 +315,10 @@ Raffle mensual:
 - Recompensa diaria por usuario
 - Cooldown de 24h
 - Acumulación si no reclamas
+
+### Idea de proyecto con meta-transactions
+
+"Gasless Claims":
+- Usuarios reclaman rewards sin pagar gas
+- Un relayer paga el gas
+- Muy buena UX para usuarios nuevos.
