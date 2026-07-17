@@ -330,3 +330,10 @@ Raffle mensual:
 - Sorteo con VRF real
 - Premios automáticos
 - Transparencia total
+
+### Idea de proyecto con price feed
+
+"Base Price Oracle Dashboard":
+- Muestra precios de varias cryptos
+- Alertas cuando sube/baja
+- Frontend bonito con charts simples
