@@ -272,3 +272,10 @@ Sistema modular:
 - BaseContract con funciones comunes
 - Varios contratos que heredan (Token, NFT, Vault)
 - Fácil de mantener y extender.
+
+### Idea de proyecto con interfaces
+
+"Router Universal":
+- Contrato que interactúa con varios DEXs
+- Encuentra la mejor ruta para un swap
+- Usa interfaces para ser compatible con diferentes protocolos
