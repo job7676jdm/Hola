@@ -366,3 +366,10 @@ Token con:
 - Holders reciben recompensas automáticas
 - Tax va a reflection + marketing + liquidity
 - Ideal para comunidad fuerte
+
+### Idea de token con protección anti-bot
+
+Token de lanzamiento protegido:
+- Max wallet durante las primeras horas
+- Gradual removal of limits
+- Anti-snipe measures
