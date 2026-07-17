@@ -293,3 +293,11 @@ Sistema modular:
 - Enviar tokens a múltiples direcciones en una sola transacción
 - Útil para airdrops o pagos masivos
 - Ahorro significativo de gas
+
+### Idea de proyecto Raffle en Base
+
+Raffle mensual:
+- Entrada con pago pequeño
+- Premio en ETH o tokens
+- Transparencia total on-chain
+- Uso de Chainlink VRF para random real
