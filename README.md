@@ -265,3 +265,10 @@ Contrato donde los tokens se liberan poco a poco con el tiempo (team, advisors, 
 - Guardar nombre, avatar hash, bio
 - Actualizar perfil
 - Consultar perfil de cualquier usuario
+
+### Idea de proyecto con herencia
+
+Sistema modular:
+- BaseContract con funciones comunes
+- Varios contratos que heredan (Token, NFT, Vault)
+- Fácil de mantener y extender.
