@@ -301,3 +301,10 @@ Raffle mensual:
 - Premio en ETH o tokens
 - Transparencia total on-chain
 - Uso de Chainlink VRF para random real
+
+### Idea de proyecto con referrals
+
+"Base Referral Program":
+- Usuario gana puntos por cada referral
+- Rewards escalonados
+- Ranking de top referrers
