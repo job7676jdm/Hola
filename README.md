@@ -337,3 +337,10 @@ Raffle mensual:
 - Muestra precios de varias cryptos
 - Alertas cuando sube/baja
 - Frontend bonito con charts simples
+
+### Idea de proyecto con limits
+
+"Smart Limit Order Bot":
+- Usuario pone órdenes con precio límite
+- Se ejecutan automáticamente cuando se cumple
+- Todo on-chain
