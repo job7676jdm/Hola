@@ -392,3 +392,10 @@ Token "Impact Token":
 - Parte de la tax va automáticamente a wallet de donaciones
 - Holders pueden votar a qué causa va el dinero
 - Transparencia total
+
+### Idea de token con blacklist
+
+Token con protección:
+- Blacklist temporal al principio
+- Removible por voto de comunidad
+- Anti-snipe + protección contra dumps grandes
