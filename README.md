@@ -405,3 +405,10 @@ Token con protección:
 "DAO Voting con Snapshot":
 - Votos basados en balances en un momento específico
 - Evita manipulaciones de último minuto
+
+### Idea de proyecto con whitelist
+
+NFT Collection con:
+- Whitelist vía Merkle Tree
+- Precio más bajo para whitelisted
+- Public mint después
