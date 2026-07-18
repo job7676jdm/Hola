@@ -462,3 +462,10 @@ DAO Treasury con lógica actualizable:
 - Opciones simples sobre ETH, BTC, etc.
 - Liquidación automática
 - Bajos fees gracias a Base
+
+### Idea de proyecto prediction market
+
+"Base Predictions":
+- Mercados sobre deportes, crypto, eventos
+- Resolución con oráculos
+- Recompensas para participantes correctos
