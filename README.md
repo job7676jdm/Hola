@@ -443,3 +443,6 @@ DAO Treasury con lógica actualizable:
 - Lock tokens para votar
 - Rewards por voting power
 - Governance real de la plataforma
+"Base Arbitrage Bot":
+- Detecta oportunidades entre DEXs
+- Ejecuta flash loan + swap + repay en una transacción
