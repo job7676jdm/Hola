@@ -469,3 +469,10 @@ DAO Treasury con lógica actualizable:
 - Mercados sobre deportes, crypto, eventos
 - Resolución con oráculos
 - Recompensas para participantes correctos
+
+### Idea de proyecto insurance
+
+"Base Protection Fund":
+- Pool de insurance contra hacks
+- Pagos automáticos con oráculos
+- Premiums bajos gracias a Base
