@@ -399,3 +399,9 @@ Token con protección:
 - Blacklist temporal al principio
 - Removible por voto de comunidad
 - Anti-snipe + protección contra dumps grandes
+
+### Idea de proyecto con snapshot
+
+"DAO Voting con Snapshot":
+- Votos basados en balances en un momento específico
+- Evita manipulaciones de último minuto
