@@ -380,3 +380,8 @@ Token que reduce tax con el tiempo o según volumen:
 - Al principio más tax para marketing
 - Después baja para holders
 - Ajustable por governance
+
+### Idea de token con buyback automático
+
+Token que usa parte de la tax para comprar y burn o distribuir rewards.
+Efecto deflacionario + incentivos para holders.
