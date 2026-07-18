@@ -428,3 +428,11 @@ DAO Treasury con lógica actualizable:
 "Base Unified Bridge":
 - Mover assets y mensajes entre Base y otras L2s/L1s
 - Interfaz unificada
+
+### Idea de proyecto con governance
+
+"Base Community DAO":
+- Gobernanza descentralizada
+- Tesoro comunitario
+- Votación de propuestas
+- Miembros con diferentes niveles de poder
