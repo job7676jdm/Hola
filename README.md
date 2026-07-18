@@ -436,3 +436,10 @@ DAO Treasury con lógica actualizable:
 - Tesoro comunitario
 - Votación de propuestas
 - Miembros con diferentes niveles de poder
+
+### Idea de proyecto con veToken
+
+"Base veToken DAO":
+- Lock tokens para votar
+- Rewards por voting power
+- Governance real de la plataforma
