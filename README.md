@@ -446,3 +446,11 @@ DAO Treasury con lógica actualizable:
 "Base Arbitrage Bot":
 - Detecta oportunidades entre DEXs
 - Ejecuta flash loan + swap + repay en una transacción
+
+### Idea de proyecto lending simple
+
+"Lending Pool en Base":
+- Depositar stablecoins
+- Pedir prestado contra collateral
+- Intereses variables
+- Liquidations automáticas
