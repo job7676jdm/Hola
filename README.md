@@ -416,3 +416,9 @@ NFT Collection con:
 ### Idea de proyecto con royalties
 
 Colección NFT donde el creador recibe royalty automático en cada reventa, incentivando creación de valor a largo plazo.
+
+### Idea de proyecto upgradeable
+
+DAO Treasury con lógica actualizable:
+- Mejoras sin perder fondos
+- Governance decide upgrades
