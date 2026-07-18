@@ -412,3 +412,7 @@ NFT Collection con:
 - Whitelist vía Merkle Tree
 - Precio más bajo para whitelisted
 - Public mint después
+
+### Idea de proyecto con royalties
+
+Colección NFT donde el creador recibe royalty automático en cada reventa, incentivando creación de valor a largo plazo.
