@@ -422,3 +422,9 @@ Colección NFT donde el creador recibe royalty automático en cada reventa, ince
 DAO Treasury con lógica actualizable:
 - Mejoras sin perder fondos
 - Governance decide upgrades
+
+### Idea de proyecto cross-chain
+
+"Base Unified Bridge":
+- Mover assets y mensajes entre Base y otras L2s/L1s
+- Interfaz unificada
