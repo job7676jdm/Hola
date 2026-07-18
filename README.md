@@ -454,3 +454,11 @@ DAO Treasury con lógica actualizable:
 - Pedir prestado contra collateral
 - Intereses variables
 - Liquidations automáticas
+
+
+### Idea de proyecto options
+
+"Base Options Platform":
+- Opciones simples sobre ETH, BTC, etc.
+- Liquidación automática
+- Bajos fees gracias a Base
