@@ -476,3 +476,10 @@ DAO Treasury con lógica actualizable:
 - Pool de insurance contra hacks
 - Pagos automáticos con oráculos
 - Premiums bajos gracias a Base
+
+### Idea de proyecto yield optimizer
+
+"Base Auto Yield":
+- Deposita en diferentes vaults automáticamente
+- Auto-compounding
+- Rebalanceo periódico
