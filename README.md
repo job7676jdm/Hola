@@ -385,3 +385,10 @@ Token que reduce tax con el tiempo o según volumen:
 
 Token que usa parte de la tax para comprar y burn o distribuir rewards.
 Efecto deflacionario + incentivos para holders.
+
+### Idea de token con charity
+
+Token "Impact Token":
+- Parte de la tax va automáticamente a wallet de donaciones
+- Holders pueden votar a qué causa va el dinero
+- Transparencia total
