@@ -522,3 +522,10 @@ DAO Treasury con lógica actualizable:
 - Subastas Dutch y English
 - Soporte para múltiples NFTs
 - Fees bajos
+
+### Idea de proyecto lending
+
+"Base Stable Lending":
+- Enfocado en stablecoins
+- Tasas estables
+- Bajo riesgo
