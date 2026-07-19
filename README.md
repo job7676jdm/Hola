@@ -550,3 +550,10 @@ DAO Treasury con lógica actualizable:
 - Simple pero adictivo
 - Items NFT mejorables
 - Recompensas on-chain
+
+### Idea de proyecto con leaderboard
+
+"Base Top Builders":
+- Ranking por actividad o commits
+- Rewards para top players
+- Actualización periódica
