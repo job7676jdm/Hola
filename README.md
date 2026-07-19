@@ -508,3 +508,10 @@ DAO Treasury con lógica actualizable:
 - Escrow integrado
 - Dispute resolution
 - Protección para comprador y vendedor
+
+### Idea de proyecto milestone payments
+
+"Base Freelance Escrow":
+- Pagos por hitos
+- Multisig o arbitrator
+- Protección para ambas partes
