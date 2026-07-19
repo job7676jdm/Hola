@@ -489,4 +489,9 @@ DAO Treasury con lógica actualizable:
 "Base Social":
 - Perfiles on-chain
 - Keys / acceso pagado
-- Contenido privado por suscripción
+- Contenido privado por suscripción### Idea de proyecto con referral fuerte
+
+"Base Referral Network":
+- Recompensas por referrals y sub-referrals
+- Sistema de rangos
+- Recompensas en tokens nativos
