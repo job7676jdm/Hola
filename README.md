@@ -529,3 +529,10 @@ DAO Treasury con lógica actualizable:
 - Enfocado en stablecoins
 - Tasas estables
 - Bajo riesgo
+
+### Idea de proyecto fractional
+
+"Base Fractional Gallery":
+- Fraccionar NFTs famosos
+- Trading de shares
+- Propiedad compartida
