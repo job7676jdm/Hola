@@ -543,3 +543,10 @@ DAO Treasury con lógica actualizable:
 - Treasury comunitario
 - Votación de propuestas
 - Apoyo a proyectos nuevos en Base
+
+### Idea de proyecto game
+
+"Base Clicker Game":
+- Simple pero adictivo
+- Items NFT mejorables
+- Recompensas on-chain
