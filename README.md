@@ -536,3 +536,10 @@ DAO Treasury con lógica actualizable:
 - Fraccionar NFTs famosos
 - Trading de shares
 - Propiedad compartida
+
+### Idea de proyecto DAO
+
+"Base Builders DAO":
+- Treasury comunitario
+- Votación de propuestas
+- Apoyo a proyectos nuevos en Base
