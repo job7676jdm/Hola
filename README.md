@@ -483,3 +483,10 @@ DAO Treasury con lógica actualizable:
 - Deposita en diferentes vaults automáticamente
 - Auto-compounding
 - Rebalanceo periódico
+
+### Idea de proyecto SocialFi
+
+"Base Social":
+- Perfiles on-chain
+- Keys / acceso pagado
+- Contenido privado por suscripción
