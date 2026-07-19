@@ -515,3 +515,10 @@ DAO Treasury con lógica actualizable:
 - Pagos por hitos
 - Multisig o arbitrator
 - Protección para ambas partes
+
+### Idea de proyecto auction
+
+"Base NFT Auction House":
+- Subastas Dutch y English
+- Soporte para múltiples NFTs
+- Fees bajos
