@@ -495,3 +495,9 @@ DAO Treasury con lógica actualizable:
 - Recompensas por referrals y sub-referrals
 - Sistema de rangos
 - Recompensas en tokens nativos
+
+### Idea de proyecto Dynamic NFT
+
+"Base Builder Avatar":
+- NFT que evoluciona según commits, actividad o logros del holder
+- Metadata cambia on-chain
