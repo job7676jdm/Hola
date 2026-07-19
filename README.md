@@ -501,3 +501,10 @@ DAO Treasury con lógica actualizable:
 "Base Builder Avatar":
 - NFT que evoluciona según commits, actividad o logros del holder
 - Metadata cambia on-chain
+
+### Idea de proyecto escrow
+
+"Base Secure Marketplace":
+- Escrow integrado
+- Dispute resolution
+- Protección para comprador y vendedor
