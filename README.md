@@ -592,3 +592,10 @@ DAO Treasury con lógica actualizable:
 - Withdraw normal + emergency
 - Protección extra para usuarios
 - Transparencia en eventos
+
+### Idea de proyecto con rewards
+
+"Base Activity Rewards":
+- Ganar puntos por actividad
+- Convertir puntos en tokens claimables
+- Sistema anti-bot básico
