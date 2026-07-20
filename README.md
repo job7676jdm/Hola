@@ -578,3 +578,10 @@ DAO Treasury con lógica actualizable:
 - Ganar tokens por actividad en la plataforma
 - Claim diario o semanal
 - Anti-cheat básico
+
+### Idea de proyecto con pause
+
+"Base Emergency Protocol":
+- Contrato con pausa de emergencia
+- Solo owner puede pausar
+- Transparencia en el dashboard
