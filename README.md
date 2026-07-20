@@ -585,3 +585,10 @@ DAO Treasury con lógica actualizable:
 - Contrato con pausa de emergencia
 - Solo owner puede pausar
 - Transparencia en el dashboard
+
+### Idea de proyecto con emergency
+
+"Base Safe Vault":
+- Withdraw normal + emergency
+- Protección extra para usuarios
+- Transparencia en eventos
