@@ -606,3 +606,10 @@ DAO Treasury con lógica actualizable:
 - Niveles según cantidad de referidos
 - Recompensas crecientes
 - Ranking de top referrers
+
+### Idea de proyecto vault
+
+"Base Simple Vault":
+- Depositar tokens
+- Retirar en cualquier momento
+- Intereses o rewards básicos
