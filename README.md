@@ -613,3 +613,10 @@ DAO Treasury con lógica actualizable:
 - Depositar tokens
 - Retirar en cualquier momento
 - Intereses o rewards básicos
+
+### Idea de proyecto con fees
+
+"Base Revenue Vault":
+- Fee pequeño por depósito
+- Revenue compartido con la comunidad
+- Sostenible a largo plazo
