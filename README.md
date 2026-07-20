@@ -669,3 +669,10 @@ DAO Treasury con lógica actualizable:
 - Badges soulbound por logros
 - No se pueden vender
 - Representan reputación on-chain
+
+### Idea de proyecto con roles
+
+"Base Multi-Admin Platform":
+- Diferentes roles con permisos específicos
+- Más seguro y escalable
+- Ideal para proyectos con equipo
