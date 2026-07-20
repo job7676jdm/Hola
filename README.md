@@ -662,3 +662,10 @@ DAO Treasury con lógica actualizable:
 - Badges soulbound por logros
 - No se pueden vender
 - Representan reputación on-chain
+
+### Idea de proyecto con soulbound
+
+"Base Builder Badges":
+- Badges soulbound por logros
+- No se pueden vender
+- Representan reputación on-chain
