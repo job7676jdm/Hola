@@ -620,3 +620,11 @@ DAO Treasury con lógica actualizable:
 - Fee pequeño por depósito
 - Revenue compartido con la comunidad
 - Sostenible a largo plazo
+
+### Idea de proyecto con harvest
+
+"Base Yield Farm":
+- Depositar liquidez
+- Earn rewards
+- Botón de harvest manual
+- Auto-compounding opcional
