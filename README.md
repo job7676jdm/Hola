@@ -641,3 +641,10 @@ DAO Treasury con lógica actualizable:
 "Base Staking with Lock":
 - Mejor rewards si lockeas más tiempo
 - Incentiva holding largo plazo
+
+### Idea de proyecto con boost
+
+"Base Boost Staking":
+- Boost según tiempo locked
+- Boost según cantidad staked
+- NFT que da boost extra
