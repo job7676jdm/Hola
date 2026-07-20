@@ -655,3 +655,10 @@ DAO Treasury con lógica actualizable:
 - Stakea tus NFTs
 - Gana tokens diarios
 - Desbloquea perks según NFTs staked
+
+### Idea de proyecto con soulbound
+
+"Base Builder Badges":
+- Badges soulbound por logros
+- No se pueden vender
+- Representan reputación on-chain
