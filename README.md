@@ -571,3 +571,10 @@ DAO Treasury con lógica actualizable:
 - Vesting para equipo y advisors
 - Cliff de 6 meses + linear 24 meses
 - Transparencia total
+
+### Idea de proyecto con rewards
+
+"Base Activity Rewards":
+- Ganar tokens por actividad en la plataforma
+- Claim diario o semanal
+- Anti-cheat básico
