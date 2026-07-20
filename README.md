@@ -557,3 +557,10 @@ DAO Treasury con lógica actualizable:
 - Ranking por actividad o commits
 - Rewards para top players
 - Actualización periódica
+
+### Idea de proyecto con randomness
+
+"Base Dice Game":
+- Apostar contra el contrato
+- Número aleatorio determina ganador
+- Simple pero efectivo para practicar
