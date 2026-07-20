@@ -635,3 +635,9 @@ DAO Treasury con lógica actualizable:
 - Depositar una vez
 - El vault hace compound automáticamente
 - Mayor rendimiento a largo plazo
+
+### Idea de proyecto con lock
+
+"Base Staking with Lock":
+- Mejor rewards si lockeas más tiempo
+- Incentiva holding largo plazo
