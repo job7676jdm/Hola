@@ -564,3 +564,10 @@ DAO Treasury con lógica actualizable:
 - Apostar contra el contrato
 - Número aleatorio determina ganador
 - Simple pero efectivo para practicar
+
+### Idea de proyecto vesting
+
+"Base Team Vesting":
+- Vesting para equipo y advisors
+- Cliff de 6 meses + linear 24 meses
+- Transparencia total
