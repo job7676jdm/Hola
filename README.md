@@ -599,3 +599,10 @@ DAO Treasury con lógica actualizable:
 - Ganar puntos por actividad
 - Convertir puntos en tokens claimables
 - Sistema anti-bot básico
+
+### Idea de proyecto con tiers
+
+"Base Referral League":
+- Niveles según cantidad de referidos
+- Recompensas crecientes
+- Ranking de top referrers
