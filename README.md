@@ -628,3 +628,10 @@ DAO Treasury con lógica actualizable:
 - Earn rewards
 - Botón de harvest manual
 - Auto-compounding opcional
+
+### Idea de proyecto con auto-compound
+
+"Base Auto Compound Vault":
+- Depositar una vez
+- El vault hace compound automáticamente
+- Mayor rendimiento a largo plazo
