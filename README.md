@@ -648,3 +648,10 @@ DAO Treasury con lógica actualizable:
 - Boost según tiempo locked
 - Boost según cantidad staked
 - NFT que da boost extra
+
+### Idea de proyecto NFT staking
+
+"Base NFT Staking":
+- Stakea tus NFTs
+- Gana tokens diarios
+- Desbloquea perks según NFTs staked
