@@ -731,3 +731,10 @@ DAO Treasury con lógica actualizable:
 - Ranking por actividad (commits, interacciones, etc.)
 - Rewards para top 10
 - Actualización periódica
+
+### Idea de proyecto quest system
+
+"Base Builder Quests":
+- Quests diarias/semana les
+- Rewards por completar
+- Sistema de progresión
