@@ -717,3 +717,10 @@ DAO Treasury con lógica actualizable:
 - Reclamo con Merkle Tree
 - Basado en actividad en GitHub o en Base
 - Transparencia total
+
+### Idea de proyecto loyalty
+
+"Base Loyalty Program":
+- Puntos por actividad en Base
+- Rewards y perks según nivel
+- Sistema gamificado
