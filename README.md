@@ -683,3 +683,10 @@ DAO Treasury con lógica actualizable:
 - Lógica actualizable
 - Governance decide upgrades
 - Evoluciona con el tiempo sin perder datos
+
+### Idea de proyecto Soulbound
+
+"Base Achievement System":
+- Badges soulbound por commits, actividad o hitos
+- Perfil de builder on-chain
+- Recompensas por coleccionar badges
