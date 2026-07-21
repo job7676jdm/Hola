@@ -676,3 +676,10 @@ DAO Treasury con lógica actualizable:
 - Diferentes roles con permisos específicos
 - Más seguro y escalable
 - Ideal para proyectos con equipo
+
+### Idea de proyecto upgradeable
+
+"Base Dynamic Platform":
+- Lógica actualizable
+- Governance decide upgrades
+- Evoluciona con el tiempo sin perder datos
