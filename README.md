@@ -127,7 +127,6 @@ async function main() {
   await counter.deployed();
   console.log("Counter desplegado en:", counter.address);
 }
-
 main().catch((error) => {
   console.error(error);
   process.exit(1);
