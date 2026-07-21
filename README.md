@@ -724,3 +724,10 @@ DAO Treasury con lógica actualizable:
 - Puntos por actividad en Base
 - Rewards y perks según nivel
 - Sistema gamificado
+
+### Idea de proyecto leaderboard
+
+"Base Top Builders Leaderboard":
+- Ranking por actividad (commits, interacciones, etc.)
+- Rewards para top 10
+- Actualización periódica
