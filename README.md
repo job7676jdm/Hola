@@ -5,7 +5,6 @@
 - Diferencia entre mainnet y testnet
 - Importancia de los fees bajos para experimentar
 
-
 ### Objetivos iniciales
 
 - Entender bien cómo funciona Base como L2
