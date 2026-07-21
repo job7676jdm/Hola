@@ -710,3 +710,10 @@ DAO Treasury con lógica actualizable:
 - Protocolo que genera revenue
 - Distribución automática a holders
 - Transparencia total
+
+### Idea de proyecto airdrop
+
+"Base Community Airdrop":
+- Reclamo con Merkle Tree
+- Basado en actividad en GitHub o en Base
+- Transparencia total
