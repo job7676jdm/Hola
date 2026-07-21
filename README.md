@@ -703,3 +703,10 @@ DAO Treasury con lógica actualizable:
 - Propuestas on-chain
 - Votación con tokens
 - Ejecución automática de decisiones
+
+### Idea de proyecto revenue share
+
+"Base Revenue DAO":
+- Protocolo que genera revenue
+- Distribución automática a holders
+- Transparencia total
