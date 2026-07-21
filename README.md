@@ -690,3 +690,9 @@ DAO Treasury con lógica actualizable:
 - Badges soulbound por commits, actividad o hitos
 - Perfil de builder on-chain
 - Recompensas por coleccionar badges
+
+### Idea de proyecto cross-chain
+
+"Base Unified Bridge":
+- Interfaz simple para mover fondos y mensajes entre Base y otras chains
+- Mejor UX para usuarios multi-chain
