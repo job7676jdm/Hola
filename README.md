@@ -696,3 +696,10 @@ DAO Treasury con lógica actualizable:
 "Base Unified Bridge":
 - Interfaz simple para mover fondos y mensajes entre Base y otras chains
 - Mejor UX para usuarios multi-chain
+
+### Idea de proyecto governance
+
+"Base Community DAO":
+- Propuestas on-chain
+- Votación con tokens
+- Ejecución automática de decisiones
